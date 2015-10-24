@@ -29,7 +29,7 @@
                 <td valign="top"><span class="titleText">活动介绍:</span></td>
             </tr>
         </table>
-        <span class="contentText">活动介绍内容活动介绍内容活动介绍内容活动介绍内容活动介绍内容活动介绍内容</span>
+        <span class="contentText">留学GO是面向全球招聘</span>
     </div><br>
     <div>
         <table style="height:40px;border-color:#000000;border-left-style:solid;border-width:1px">
